@@ -1,3 +1,8 @@
+print("1.Add")
+print("2.Subtract")
+print("3.Multiply")
+print("4.Divide")
+
 choice = int(input("Enter choice: "))
 
 a = int(input("Enter first number: "))
